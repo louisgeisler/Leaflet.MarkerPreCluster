@@ -22,7 +22,7 @@ It behaves almost exactly like the [MarkerCluster plugin](https://github.com/Lea
 
 Instead of adding markers to markerClusterGroup, you will add leaves that will give information to build the tree.
 
-```javascipt
+```html
 <!DOCTYPE html>
 <html>
 <head>
