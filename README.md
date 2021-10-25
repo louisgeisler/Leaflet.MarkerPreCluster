@@ -1,7 +1,7 @@
 Leaflet.markerprecluster
 =====================
 
-Change the behavior oh the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster)
+Change the behavior of the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster) to use data pre-clustered.
 
 # Using the plugin
 
