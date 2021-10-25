@@ -54,3 +54,6 @@ map.addLayer(leafs);
 ```
 ![Présentation sans titre](https://user-images.githubusercontent.com/82355033/138681708-844ceeec-a493-4289-ad5f-b43fba164507.jpg)
 
+As you see, the path (hierarchical path) explained how the leaf must fusion to create nodes.
+
+So when you use ```L.leaf(position, hierarchical_path)```, just like the exemple.
