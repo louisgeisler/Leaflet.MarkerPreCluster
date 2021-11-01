@@ -1,5 +1,6 @@
 Leaflet.markerprecluster
 =====================
+[![npm version](https://badge.fury.io/js/leaflet.markerprecluster.svg)](https://badge.fury.io/js/leaflet.markerprecluster)
 
 Change the behavior of the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster) to use data pre-clustered.
 
@@ -15,7 +16,10 @@ Download the *markerprecluster-min.js* file and add the following lines in the h
 **Nota Bene:** You need to import the leaflet package and markerclusterpackage before using that plugin
 
 # Example
-See the included examples for usage.
+
+![image](https://user-images.githubusercontent.com/82355033/139754358-ecdf7482-c883-4a2a-ba5e-0fd5c13bc231.png)
+
+[**Click here to see the result!**](https://louisgeisler.github.io/Leaflet.MarkerPreCluster/)
 
 # Usage
 It behaves almost exactly like the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster), with only one difference: L.leaf
@@ -115,7 +119,10 @@ map.setView([0,0],map.options.minZoom);
 </body>
 </html>
 ```
-![Présentation sans titre](https://user-images.githubusercontent.com/82355033/138681708-844ceeec-a493-4289-ad5f-b43fba164507.jpg)
+
+# Explications
+
+![](/Schema.svg)
 
 As you see, the path (hierarchical path) explained how the leaf must fusion to create nodes.
 
