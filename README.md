@@ -9,7 +9,7 @@ Download the *markerprecluster-min.js* file and add the following lines in the h
 ```html
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-<script src="markerprecluster-min.js"></script>
+<script src="https://unpkg.com/leaflet.markerprecluster@1.0.0/markerprecluster-min.js"></script>
 ```
 
 **Nota Bene:** You need to import the leaflet package and markerclusterpackage before using that plugin
