@@ -29,10 +29,10 @@ Instead of adding markers to markerClusterGroup, you will add leaves that will g
 	<title>MarkerPreCluster - Demo</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 	<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-    <script src="markerprecluster-min.js"></script>
+    	<script src="https://unpkg.com/leaflet.markerprecluster@1.0.0/markerprecluster-min.js"></script>
 	<style>
 		body {
 			padding: 0;
