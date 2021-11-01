@@ -1,0 +1,26 @@
+{
+  "name": "leaflet.markerprecluster",
+  "version": "1.0.0",
+  "description": "Change the behavior of the MarkerCluster plugin to use data pre-clustered.",
+  "main": "markerprecluster-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisgeisler/Leaflet.MarkerPreCluster.git"
+  },
+  "keywords": [
+    "leaflet",
+    "marker",
+    "cluster",
+    "markercluster",
+    "map"
+  ],
+  "author": "louis-geisler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisgeisler/Leaflet.MarkerPreCluster/issues"
+  },
+  "homepage": "https://github.com/louisgeisler/Leaflet.MarkerPreCluster#readme"
+}
