@@ -2,7 +2,7 @@ Leaflet.markerprecluster
 =====================
 [![npm version](https://badge.fury.io/js/leaflet.markerprecluster.svg)](https://badge.fury.io/js/leaflet.markerprecluster)
 
-Change the behavior of the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster) to use data pre-clustered.
+Change the behavior of the [MarkerCluster plugin](https://github.com/Leaflet/Leaflet.markercluster) to use pre-clustered data.
 
 # Using the plugin
 
